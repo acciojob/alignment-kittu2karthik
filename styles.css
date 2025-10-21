@@ -3,13 +3,23 @@ h1{
 	text-align: center
 }
 
-#t11{
+.middle{
+	border: 1px solid black;
+	margin: 1px;
+}
+
+td{
+	padding: 1px
+	
+}
+
+.left{
 	text-align: left;
 }
-#t12{
+.center{
 	text-align: center;
 }
-#t13{
+.right{
 	text-align: right;
 }
 
